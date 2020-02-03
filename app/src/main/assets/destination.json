@@ -1,0 +1,30 @@
+{
+  "main/tabs/dash": {
+    "isFragment": true,
+    "asStarter": false,
+    "needLogin": false,
+    "pageUrl": "main/tabs/dash",
+    "id": 1506522648
+  },
+  "main/tabs/home": {
+    "isFragment": true,
+    "asStarter": true,
+    "needLogin": false,
+    "pageUrl": "main/tabs/home",
+    "id": 0
+  },
+  "main/tabs/main": {
+    "isFragment": false,
+    "asStarter": false,
+    "needLogin": false,
+    "pageUrl": "main/tabs/main",
+    "id": 721068178
+  },
+  "main/tabs/notification": {
+    "isFragment": true,
+    "asStarter": false,
+    "needLogin": false,
+    "pageUrl": "main/tabs/notification",
+    "id": 581724554
+  }
+}
